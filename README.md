@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gokilapriya</h1>
-<h3 align="center">I love to learn and acquire knowledge in every possible aspect</h3>
+
 
 - 📫 Reach me **sgokilapriya1599@gmail.com**
 
