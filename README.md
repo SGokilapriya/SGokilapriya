@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gokilapriya</h1>
 <h3 align="center">I love to learn and acquire knowledge in every possible aspect</h3>
 
-- 🌱 I’m currently learning **Game Development**
-
-- 📝 I regularly write articles on [https://howtogetmotivationisyou.blogspot.com/](https://howtogetmotivationisyou.blogspot.com/)
-
 - 📫 Reach me **sgokilapriya1599@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
